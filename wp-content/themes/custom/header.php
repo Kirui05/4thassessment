@@ -12,7 +12,7 @@
 <body>
 
     <nav>
-        <h1>My Custom Theme</h1>
+        <h1>Blog 001</h1>
 
         <div class="links">
             <?php wp_nav_menu(array([
